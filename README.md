@@ -1,3 +1,6 @@
+[![Generic badge](https://img.shields.io/badge/Version-v0.1.0-001850.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Languages-EN,HU-001850.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/State-Under_development-ffa000.svg)](https://shields.io/)\
 [A magyar változatot ide kattintva érheti el.](https://github.com/hyperrixel/cheXrad/blob/master/README-hu.md)
 
 # cheXrad - Pneumonic Analytic CoCoLo-Software
