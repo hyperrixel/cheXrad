@@ -5,6 +5,8 @@
 
 # cheXrad - Pneumonic Analytic CoCoLo-Software
 
+![logo](chexrad_logo.png)
+
 ## About the project
 
 The goal of this project is to develop a CoCoLo-software (Compound of Classification only Looked once) to help with pulmonary diagnosis.
