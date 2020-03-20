@@ -5,8 +5,6 @@
 
 # cheXrad - Pulmonológiai Diagnosztizáló CoCoLo-alapú Program
 
-## A projektről
-
 ![logo](chexrad_logo.png)
 
 ## A projektről
