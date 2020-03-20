@@ -51,7 +51,7 @@ The processed data is sent to four different classifier networks. This is a perf
 
 ### Result visualization
 
-This part of the software is the true user interface (UI). The detailes of the look of this modue depends on the platform where it is used but there are some common attributes as well.
+This part of the software is the true user interface (UI). The detailes of the look of this module depends on the platform where it is used but there are some common attributes as well.
 
 #### Common UI characteristics
 
