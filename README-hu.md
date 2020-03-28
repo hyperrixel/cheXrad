@@ -65,10 +65,10 @@ A program ezen része a valódi felhasználói interfész (UI). A kinézet rész
 
 ## A projekt aktuális állása
 
-- [ ] Modul#1 (egészséges, nem egészséges klasszifikáló) betanítás alatt.
-- [ ] Modul#2 (2 osztályos klasszifikáló) betanítás alatt.
-- [ ] Modul#3 (3 osztályos klasszifikáló) betanítás alatt.
-- [ ] Modul#4 (15 osztályos klasszifikáló) betanítás alatt.
+- [x] Modul#1 (egészséges, nem egészséges klasszifikáló) betanítva.
+- [x] Modul#2 (2 osztályos klasszifikáló) betanítva.
+- [ ] Modul#3 (14 osztályos klasszifikáló) betanítás alatt.
+- [x] Modul#4 (speciális klasszifikáló) betanítva.
 
 ## Források és referenciák
 
