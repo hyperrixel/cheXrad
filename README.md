@@ -66,9 +66,9 @@ This part of the software is the true user interface (UI). The detailes of the l
 ## Current state of the project
 
 - [x] Module#1 (healthy, not-healthy classifier) is trained.
-- [ ] Module#2 (2 classes classifier) is under training.
-- [ ] Module#3 (3 classes classifier) is under training.
-- [ ] Module#4 (15 classes classifier) is under training.
+- [x] Module#2 (2 classes classifier) is trained.
+- [ ] Module#3 (14 classes classifier) is under training.
+- [x] Module#4 (special classifier) is trained.
 
 ## Sources and references
 
