@@ -41,13 +41,36 @@ The transformed input image is processed by this part of the software first. The
 
 The processed data is sent to four different classifier networks. This is a performance improvement since common attributes need to be recognized only once. The classifier networks are trained by us.
 
-#### Classifier#1: healthy - not healthy
+#### Classifier#1:
+
+* 1.h  No Findings
+* 1.n  Not Healthy
 
 #### Classifier#2:
 
-#### Classifier#2:
+* 2.01 Bacteria
+* 2.02 Virus
 
-#### Classifier#2:
+#### Classifier#3:
+
+* 3.01 Infiltration
+* 3.02 Effusion
+* 3.03 Atelectasis
+* 3.04 Nodule
+* 3.05 Mass
+* 3.06 Pneumothorax
+* 3.07 Pleural thickening
+* 3.08 Consolidation
+* 3.09 Emphysema
+* 3.10 Fibrosis
+* 3.11 Pneumonia
+* 3.12 Edema
+* 3.13 Hernia
+* 3.14 Cardiomegalys
+
+#### Classifier#4:
+
+* E1.1 COVID-19
 
 ### Result visualization
 
@@ -55,13 +78,31 @@ This part of the software is the true user interface (UI). The detailes of the l
 
 #### Common UI characteristics
 
+Common characteristics of every UI is that the result contaians the output of all working modules. The software can handle multiple images at the same time on every platform.
+
 #### Platform specific UI details
+
+Development in progress.
 
 ##### Python script
 
+Development in progress.
+
 ##### Command line application
 
+Development in progress.
+
 ##### Android application
+
+Development in progress.
+
+##### Desktop software
+
+Almost ready. Here are some screenshots.
+
+| ![No findings - Light UI mode](/screenshot/n_c.jpg) | ![No findings - Dark UI mode](/screenshot/n_dark_c.jpg) |
+|-----------------------------------------------------|---------------------------------------------------------|
+| ![Not healthy - Light UI mode](/screenshot/p_c.jpg) | ![Not healthy - Dark UI mode](/screenshot/p_dark_c.jpg) |
 
 ## Current state of the project
 
