@@ -100,9 +100,9 @@ Development in progress.
 
 Almost ready. Here are some screenshots.
 
-| ![No findings - Light UI mode](/screenshot/n_c.jpg) | ![No findings - Dark UI mode](/screenshot/n_dark_c.jpg) |
+| ![No findings - Light UI mode](/screenshot/n_c.jpg "No findings - Light UI mode") | ![No findings - Dark UI mode](/screenshot/n_dark_c.jpg "No findings - Dark UI mode") |
 |-----------------------------------------------------|---------------------------------------------------------|
-| ![Not healthy - Light UI mode](/screenshot/p_c.jpg) | ![Not healthy - Dark UI mode](/screenshot/p_dark_c.jpg) |
+| ![Not healthy - Light UI mode](/screenshot/p_c.jpg "Not healthy - Light UI mode") | ![Not healthy - Dark UI mode](/screenshot/p_dark_c.jpg "Not healthy - Dark UI mode") |
 
 ## Current state of the project
 
