@@ -21,6 +21,14 @@ The software operates the following way:
 - The output is forwarded through our classifier networks.
 - The result is visualized like a data chain.
 
+### Training
+
+![](chexrad_flow_train.png)
+
+### Inference
+
+![](chexrad_flow_inference.png)
+
 ## Specifications of the software
 
 ### Input image
